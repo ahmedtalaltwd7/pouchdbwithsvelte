@@ -1,6 +1,6 @@
 <script>
 import { onMount } from 'svelte'
-
+import "../app.css";
 async function detectSWUpdate() {
     const registration = await navigator.serviceWorker.ready
     
