@@ -1,6 +1,6 @@
  # About App
 
-It's a SvelteKit app that works with service-worker to make PWA app with offline mode from the cash in additional, using Pouchdb to sync data when the app got online with CouchDB.
+It's a SvelteKit app that works with service-worker to make PWA app with offline mode from the cash in additional, using Pouchdb to sync data when the app got online with CouchDB. 
 
 # create-svelte
 
